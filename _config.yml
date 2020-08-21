@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site Settings
 name: Jekflix
 title: Jekflix | A blog theme for Jekyll
@@ -101,3 +102,6 @@ exclude: [
 
 # Theme
 version: v3.1.0
+=======
+theme: jekyll-theme-hacker
+>>>>>>> 33018539375f5179ce549755c7ed6a367a188132
