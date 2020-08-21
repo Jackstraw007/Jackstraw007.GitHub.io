@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jeniac 的网络日志-php,python,web,设计,idea
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jeniac-studio.top" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Jackstraw007
+github_username: Jackstraw007
 
 # Build settings
 theme: minima
